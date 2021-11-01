@@ -73,7 +73,7 @@ class OverlayBlocker extends React.Component {
       <div className="buttonContainer">
         <a
           className={cn('primary', 'btn')}
-          href="https://strapi.io/documentation"
+          href="https://docs.strapi.io"
           target="_blank"
           rel="noopener noreferrer"
         >
